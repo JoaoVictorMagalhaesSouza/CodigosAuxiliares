@@ -1,0 +1,2 @@
+# CodigosAuxiliares
+Códigos auxiliares.
